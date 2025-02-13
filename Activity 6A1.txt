@@ -1,0 +1,8 @@
+Activity 6A1 
+Planning poker: creating a date in a day planner
+Task 1: Create a date class for events (2 days)
+Task 2: Developing UI 
+Task 3: Adding event to database
+Task 4: Incorporating event into database 
+
+Group: Nabih, Christine, Khalid, Isabella
